@@ -2,8 +2,8 @@
 A Jupyter Notebook to predict a baby's birth weight. Inspired by this [Kaggle Challenge](https://www.kaggle.com/competitions/prediction-interval-competition-i-birth-weight).
 
 <b> Presented at the Grace Hopper Celebration (GHC) '24. </b>
-- [Click here](https://github.com/anubha820/Birth-Weight-Prediction/blob/main/GHC%20Presentation.pdf) to <b> view the presentation slides. </b>
-- [Click here](https://drive.google.com/file/d/1E4AYqhO0JRruhK7qVSSTfa_1t-nkY2g1/view?usp=drive_link) to <b> view the full talk. </b>
+- [Click here](https://github.com/anubha820/Birth-Weight-Prediction/blob/main/GHC%20Presentation.pdf) to view the presentation slides.
+- [Click here](https://drive.google.com/file/d/1E4AYqhO0JRruhK7qVSSTfa_1t-nkY2g1/view?usp=drive_link) to view the full talk. 
 
 
 ### Purpose: 
